@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "npx jest"
+  },
   "dependencies": {
     "jest": "^30.2.0"
   }
